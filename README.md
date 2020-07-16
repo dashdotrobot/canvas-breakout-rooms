@@ -22,7 +22,7 @@ First, [create a Group Set in your Canvas course](https://community.canvaslms.co
 2. Click on your profile picture and click on "Settings."
 3. Under "Approved Integrations," click "New Access Token.
 4. Enter a short description under "Purpose."
-5. Copy the API Token that is generated and save it in a plain text file "API_TOKEN.txt" in the same directory as `canvas_breakout_rooms.py`. You can also save it elsewhere, and just enter it when prompted by the script. Most importantly: __keep this file secret!__. It allows anyone to access and change your course and students' data.
+5. Copy the API Token that is generated and save it in a plain text file `API_TOKEN.txt` in the same directory as `canvas_breakout_rooms.py`. You can also save it elsewhere, and just enter it when prompted by the script. Most importantly: __keep this file secret!__. It allows anyone to access and change your course and students' data.
 
 ### Generate the breakout room pre-assignment file
 
