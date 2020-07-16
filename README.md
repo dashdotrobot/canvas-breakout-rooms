@@ -4,7 +4,7 @@ Pre-assign Zoom breakout rooms based on a Canvas group set.
 
 Trying to do active in your Zoom class? Breakout rooms are an effective way to quickly break students into small groups for discussions, worksheet activities, or lab group meetings. Zoom allows you to pre-assign students into breakout rooms by uploading a CSV file. If you use [Canvas LMS](https://www.instructure.com/canvas/), you can organize students into groups for group assignments. This script generates a Zoom breakout room assignment CSV file based on a group set defined in your Canvas course.
 
-In my summer course (Mechanics of Engineering Materials at Cornell University), I had defined group sets for collaborative labs. I used the same lab groups for in-class activities.
+In my summer course (Mechanics of Engineering Materials at Cornell University) I created groups in Canvas for collaborative labs. I used the same lab groups for in-class activities.
 
 ## Installation
 
