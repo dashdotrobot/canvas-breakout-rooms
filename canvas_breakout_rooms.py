@@ -14,7 +14,7 @@ parser = ArgumentParser(description='Pre-assign Zoom breakout rooms based on a C
 parser.add_argument('-c', '--course', type=int,
                     help='Course ID')
 parser.add_argument('-u', '--canvas-url', type=str,
-                    help='Canvas URL, without https prefix (e.g. canvas.institution.edu')
+                    help='Canvas URL, without https prefix (e.g. canvas.institution.edu)')
 parser.add_argument('-g', '--group-set', type=int,
                     help='Group set ID')
 args = parser.parse_args()
